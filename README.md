@@ -8,9 +8,11 @@ El curso se desarrolla en un formato teórico-práctico, donde los estudiantes n
 
 A lo largo del curso, los estudiantes también tendrán la oportunidad de trabajar en proyectos reales, como la digitalización de la *Fuente de la Plaza Victoria* en Valparaíso, colaborando con la Dirección de Gestión del Patrimonio de la Ilustre Municipalidad de Valparaíso, lo que les permitirá aplicar los conocimientos adquiridos en un contexto profesional.
 
+---
 
 <img src="https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/AFICHE%20CURSO%20.jpg?raw=true" alt="Dental Articulators" width="500" height="500">
 
+--- 
 
 ## Objetivos del curso:
 - **Aprender a utilizar tecnologías de escaneo 3D** y fotogrametría para la digitalización precisa de objetos.
