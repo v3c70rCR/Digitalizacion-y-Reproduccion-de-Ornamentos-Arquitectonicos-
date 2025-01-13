@@ -25,7 +25,7 @@ Este curso está dirigido a estudiantes y profesionales en el área de diseño, 
 ## Clase 0: Jornada de Escaneo y Fotogrametría en Terreno
 En esta jornada, se llevará a cabo la digitalización de la *Fuente de la Plaza Victoria* de Valparaíso utilizando la técnica de fotogrametría. Además, se realizará un escaneo de alta resolución de los detalles más representativos de la escultura. Esta actividad se desarrollará en colaboración con la Dirección de Gestión del Patrimonio (DGP) de la Ilustre Municipalidad de Valparaíso, con el objetivo de establecer una alianza entre ambas instituciones. Esta fase inicial se centrará en la obtención de los insumos digitales necesarios para las siguientes actividades del curso, que involucrarán a los participantes inscritos.
 
-| ![3D view 1](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/Captura%20de%20pantalla%202024-06-26%20172901.png?raw=true) | ![3D view 2](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/Captura%20de%20pantalla%202024-06-26%20171719.png?raw=true) | ![3D view 3](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/Captura%20de%20pantalla%202024-06-26%20171824.png?raw=true) |
+| ![3D view 1](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/IMG_2635.jpg?raw=true) | ![3D view 2](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/Captura%20de%20pantalla%202024-06-26%20171719.png?raw=true) | ![3D view 3](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/Captura%20de%20pantalla%202024-06-26%20171824.png?raw=true) |
 |:--:|:--:|:--:|
 |Grabacion de videos HD| Resultado fotogrametria | Resultados fotogrametria|
 
@@ -34,6 +34,10 @@ En esta jornada, se llevará a cabo la digitalización de la *Fuente de la Plaza
 ## Clase 1: Metodología para la Digitalización y Escaneo de Piezas Tridimensionales en Laboratorio
 En esta clase, se abordará un enfoque teórico-práctico que permitirá a los alumnos aprender a manejar un escáner 3D de alta resolución para la digitalización precisa de objetos. Además, se brindará formación sobre la creación de modelos tridimensionales a partir de recursos visuales, como fotografías y videos en alta resolución, utilizando software de fotogrametría especializado.
 
+| ![3D view 1](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/PHOTO-2024-07-19-08-38-52.jpg?raw=true) | ![3D view 2](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/PHOTO-2024-07-19-08-38-53.jpg) | ![3D view 3](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/PHOTO-2024-07-19-08-38-51.jpg) |
+|:--:|:--:|:--:|
+| Escaner 3D y postprocesos | Escaner 3D y postprocesos | Escaner 3D y postprocesos |
+ 
 ---
 
 ## Clase 2: Taller de Impresión 3D y Reproducción de Piezas en Diversas Escalas
@@ -58,6 +62,14 @@ El segundo taller se enfocará en los sistemas auxiliares y los requisitos neces
 
 ## Clase 6: Taller de Vaciado y Desmoldaje
 En este taller, los estudiantes aprenderán cómo desmoldar las piezas fabricadas y llevar a cabo el proceso de vaciado para su reproducción. Se emplearán diferentes dosificaciones de yeso con aditivos específicos para garantizar la calidad del proceso. Los participantes practicarán la creación de réplicas exactas a partir de los moldes fabricados en las clases anteriores.
+
+
+| ![3D view 1](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/PHOTO-2024-05-28-19-54-45%202.jpg?raw=true) | ![3D view 2](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/PHOTO-2024-05-28-19-54-46%202.jpg?raw=true) | ![3D view 3](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/PHOTO-2024-05-28-19-54-45.jpg?raw=true) |
+|:--:|:--:|:--:|
+| Taller de moldajes | Taller de moldajes | Taller de moldajes |
+
+
+
 
 ---
 
