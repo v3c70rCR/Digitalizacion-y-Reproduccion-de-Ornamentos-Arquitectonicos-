@@ -9,7 +9,7 @@ El curso se desarrolla en un formato teórico-práctico, donde los estudiantes n
 A lo largo del curso, los estudiantes también tendrán la oportunidad de trabajar en proyectos reales, como la digitalización de la *Fuente de la Plaza Victoria* en Valparaíso, colaborando con la Dirección de Gestión del Patrimonio de la Ilustre Municipalidad de Valparaíso, lo que les permitirá aplicar los conocimientos adquiridos en un contexto profesional.
 
 
-<img src="https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Oclusor%20final.JPG?raw=true" alt="Dental Articulators" width="512" height="384">
+<img src="https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/AFICHE%20CURSO%20.jpg?raw=true" alt="Dental Articulators" width="500" height="500">
 
 
 ## Objetivos del curso:
@@ -24,6 +24,10 @@ Este curso está dirigido a estudiantes y profesionales en el área de diseño, 
 
 ## Clase 0: Jornada de Escaneo y Fotogrametría en Terreno
 En esta jornada, se llevará a cabo la digitalización de la *Fuente de la Plaza Victoria* de Valparaíso utilizando la técnica de fotogrametría. Además, se realizará un escaneo de alta resolución de los detalles más representativos de la escultura. Esta actividad se desarrollará en colaboración con la Dirección de Gestión del Patrimonio (DGP) de la Ilustre Municipalidad de Valparaíso, con el objetivo de establecer una alianza entre ambas instituciones. Esta fase inicial se centrará en la obtención de los insumos digitales necesarios para las siguientes actividades del curso, que involucrarán a los participantes inscritos.
+
+| ![3D view 1](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/Captura%20de%20pantalla%202024-06-26%20172901.png?raw=true) | ![3D view 2](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/Captura%20de%20pantalla%202024-06-26%20171719.png?raw=true) | ![3D view 3](https://github.com/v3c70rCR/Digitalizacion-y-Reproduccion-de-Ornamentos-Arquitectonicos-/blob/main/IMG/Captura%20de%20pantalla%202024-06-26%20171824.png?raw=true) |
+|:--:|:--:|:--:|
+|Grabacion de videos HD| Resultado fotogrametria | Resultados fotogrametria|
 
 ---
 
