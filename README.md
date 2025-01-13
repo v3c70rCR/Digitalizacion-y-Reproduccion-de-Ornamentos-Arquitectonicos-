@@ -8,6 +8,10 @@ El curso se desarrolla en un formato teórico-práctico, donde los estudiantes n
 
 A lo largo del curso, los estudiantes también tendrán la oportunidad de trabajar en proyectos reales, como la digitalización de la *Fuente de la Plaza Victoria* en Valparaíso, colaborando con la Dirección de Gestión del Patrimonio de la Ilustre Municipalidad de Valparaíso, lo que les permitirá aplicar los conocimientos adquiridos en un contexto profesional.
 
+
+<img src="https://github.com/v3c70rCR/dental-articulator/blob/main/IMG/Oclusor%20final.JPG?raw=true" alt="Dental Articulators" width="512" height="384">
+
+
 ## Objetivos del curso:
 - **Aprender a utilizar tecnologías de escaneo 3D** y fotogrametría para la digitalización precisa de objetos.
 - **Desarrollar habilidades en el manejo de impresoras 3D FDM** para la fabricación de piezas tridimensionales.
